@@ -1,0 +1,10 @@
+- box
+- rf board
+- nano
+- outlet for ant
+- solar
+- batteries
+- bms
+- ant
+- "client"
+- sensors

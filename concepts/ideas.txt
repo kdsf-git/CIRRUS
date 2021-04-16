@@ -1,0 +1,2 @@
+- console-based client
+- decentralized network of nodes and clients
